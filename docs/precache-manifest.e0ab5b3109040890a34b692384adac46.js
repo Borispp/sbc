@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "ffc47e74e8f7aa84ad937e525c5e1e4d",
-    "url": "fonts/crcbold.ffc47e74.woff"
+    "revision": "05acfdb568b3df49ad31355b19495d4a",
+    "url": "fonts/ionicons.05acfdb5.woff"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "robots.txt"
   },
   {
-    "revision": "2624785eb5110404c1b1c815f9c86202",
-    "url": "fonts/crc55.2624785e.woff"
+    "revision": "ffc47e74e8f7aa84ad937e525c5e1e4d",
+    "url": "fonts/crcbold.ffc47e74.woff"
   },
   {
     "revision": "659f66ec2853d4d832f6",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "img/header.8d564363.png"
   },
   {
-    "revision": "05acfdb568b3df49ad31355b19495d4a",
-    "url": "fonts/ionicons.05acfdb5.woff"
+    "revision": "2624785eb5110404c1b1c815f9c86202",
+    "url": "fonts/crc55.2624785e.woff"
   },
   {
     "revision": "50037ffe1d78ae8fbc86f772c4fb0774",
