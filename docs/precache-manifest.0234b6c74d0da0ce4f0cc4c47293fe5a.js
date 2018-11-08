@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "fonts/ionicons.05acfdb5.woff"
   },
   {
-    "revision": "dad477a43c94b843ac91",
-    "url": "js/app.d9ab8de3.js"
+    "revision": "0e99e0895676cae9bee4",
+    "url": "js/app.0ee70e60.js"
   },
   {
     "revision": "c23892d92743d0bb87d4",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "js/about.092000ac.js"
   },
   {
-    "revision": "d0f642f5b5ab390e4b4fa378a12df8bb",
+    "revision": "5b41c0c0bca78d9f31d0c9d202f10495",
     "url": "index.html"
   },
   {
@@ -44,6 +44,10 @@ self.__precacheManifest = [
     "url": "fonts/Gilmer-Light.5c7d0409.woff2"
   },
   {
+    "revision": "cea38e11924a21a9abb2783dfa4ee091",
+    "url": "fonts/Gilmer-Heavy.cea38e11.woff2"
+  },
+  {
     "revision": "8d5a96bef907eb8f9f69613b6df6a3b8",
     "url": "fonts/Gilmer-Bold.8d5a96be.woff2"
   },
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "fav.png"
   },
   {
-    "revision": "dad477a43c94b843ac91",
-    "url": "css/app.75fbe206.css"
+    "revision": "0e99e0895676cae9bee4",
+    "url": "css/app.bebc6b2b.css"
   }
 ];
