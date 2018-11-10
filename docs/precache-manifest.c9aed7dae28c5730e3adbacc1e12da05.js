@@ -1,30 +1,30 @@
 self.__precacheManifest = [
   {
-    "revision": "6ba66407adbeb4a540c57f010f193be0",
-    "url": "fonts/Gilmer-Medium.6ba66407.woff2"
+    "revision": "05acfdb568b3df49ad31355b19495d4a",
+    "url": "fonts/ionicons.05acfdb5.woff"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "robots.txt"
   },
   {
-    "revision": "05acfdb568b3df49ad31355b19495d4a",
-    "url": "fonts/ionicons.05acfdb5.woff"
+    "revision": "cea38e11924a21a9abb2783dfa4ee091",
+    "url": "fonts/Gilmer-Heavy.cea38e11.woff2"
   },
   {
-    "revision": "bb7413fac8fd1839ff59",
-    "url": "js/app.8a5302e7.js"
+    "revision": "cd7ae35a130539b0cf3f",
+    "url": "js/app.bf1824b6.js"
   },
   {
-    "revision": "c23892d92743d0bb87d4",
-    "url": "js/chunk-vendors.2c5e12bb.js"
+    "revision": "738778adf5bbcfb1dd0f",
+    "url": "js/chunk-vendors.b6593f4d.js"
   },
   {
     "revision": "bbc0770ffce8efae025d",
     "url": "js/about.092000ac.js"
   },
   {
-    "revision": "334ff30b68cc24185a7c8af1627bcdc7",
+    "revision": "a1669975c103ff0c75bafd08a241a743",
     "url": "index.html"
   },
   {
@@ -40,12 +40,12 @@ self.__precacheManifest = [
     "url": "fonts/Gilmer-Regular.1d2c82f9.woff2"
   },
   {
-    "revision": "5c7d040943470ac1ff06937e1e717889",
-    "url": "fonts/Gilmer-Light.5c7d0409.woff2"
+    "revision": "6ba66407adbeb4a540c57f010f193be0",
+    "url": "fonts/Gilmer-Medium.6ba66407.woff2"
   },
   {
-    "revision": "cea38e11924a21a9abb2783dfa4ee091",
-    "url": "fonts/Gilmer-Heavy.cea38e11.woff2"
+    "revision": "5c7d040943470ac1ff06937e1e717889",
+    "url": "fonts/Gilmer-Light.5c7d0409.woff2"
   },
   {
     "revision": "8d5a96bef907eb8f9f69613b6df6a3b8",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "fav.png"
   },
   {
-    "revision": "bb7413fac8fd1839ff59",
-    "url": "css/app.e5235fc4.css"
+    "revision": "cd7ae35a130539b0cf3f",
+    "url": "css/app.27a95d10.css"
   }
 ];
