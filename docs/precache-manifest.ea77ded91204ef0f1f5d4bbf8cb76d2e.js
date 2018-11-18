@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "6ba66407adbeb4a540c57f010f193be0",
-    "url": "fonts/Gilmer-Medium.6ba66407.woff2"
+    "revision": "8d5a96bef907eb8f9f69613b6df6a3b8",
+    "url": "fonts/Gilmer-Bold.8d5a96be.woff2"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "robots.txt"
   },
   {
-    "revision": "05acfdb568b3df49ad31355b19495d4a",
-    "url": "fonts/ionicons.05acfdb5.woff"
+    "revision": "6ba66407adbeb4a540c57f010f193be0",
+    "url": "fonts/Gilmer-Medium.6ba66407.woff2"
   },
   {
-    "revision": "3ea8ff080e619827d153",
-    "url": "js/app.cdbe6f4d.js"
+    "revision": "003e318709cd1a4f6bbb",
+    "url": "js/app.1d9b6e64.js"
   },
   {
     "revision": "738778adf5bbcfb1dd0f",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "js/about.092000ac.js"
   },
   {
-    "revision": "25d7a45821d2bc2bc6d1646b2583c420",
+    "revision": "d40f9f629f3c80a0e2960bc1c9da6888",
     "url": "index.html"
   },
   {
@@ -44,6 +44,14 @@ self.__precacheManifest = [
     "url": "img/header.a96f0b36.jpg"
   },
   {
+    "revision": "881ee56683b0422dde7319a8febb3a33",
+    "url": "img/calc-bg.881ee566.jpg"
+  },
+  {
+    "revision": "05acfdb568b3df49ad31355b19495d4a",
+    "url": "fonts/ionicons.05acfdb5.woff"
+  },
+  {
     "revision": "1d2c82f9caff304fe2b5dd1d72209630",
     "url": "fonts/Gilmer-Regular.1d2c82f9.woff2"
   },
@@ -52,15 +60,11 @@ self.__precacheManifest = [
     "url": "fonts/Gilmer-Light.5c7d0409.woff2"
   },
   {
-    "revision": "8d5a96bef907eb8f9f69613b6df6a3b8",
-    "url": "fonts/Gilmer-Bold.8d5a96be.woff2"
-  },
-  {
     "revision": "bfb0a117633576d02bfd7a0a47a37fbb",
     "url": "fav.png"
   },
   {
-    "revision": "3ea8ff080e619827d153",
-    "url": "css/app.b3b0e5e2.css"
+    "revision": "003e318709cd1a4f6bbb",
+    "url": "css/app.504540ed.css"
   }
 ];
